@@ -42,6 +42,8 @@ I'm diving headlong into the world of tech, specifically Cybersecurity and Netwo
 - How to reach me 
 ☎️ (907)444-0405
 📫 tc.anderson.tech@gmail.com
+🌎 Links: 
+    - LinkedIn: www.linkedin.com/in/tyler-c-anderson
 
 <!---
 TylerC-Anderson/TylerC-Anderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
