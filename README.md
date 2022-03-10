@@ -6,15 +6,18 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
 
 - In summary:
 👀 I’m interested in Cybersecurity and Networking
-🌱 I’m currently learning Networking (A+ and Net+), Linux, Python, and Hack the Box Academy.
+🌱 I’m currently learning Networking (A+ and Net+), Linux, Python, and CtFs.
 💞️ I’m looking to collaborate on learning Cybersecurity and Networking together, or any project of yours that's interesting you think I would make a good contribution to! There's a lot I need to experience so if you have something weird or cool please feel free to share!
 
 #################
 
 - What I'm currently working on:
-🛠 Hack the Box Academy:   Linux Fundamentals Course| 8/18 complete
+👾 TryHackMe:             Pre-Security Path| 3/16 (15%) Complete
 📺 ITProTV:               A+ Course Sections complete| 6/18 complete  
-  - Current Section:      Network Infrastructure Concepts| 2/29 complete
+  - Current Section:      Network Infrastructure Concepts| 20/29 complete
+
+Currently Paused
+🛠 Hack the Box Academy:   Linux Fundamentals Course| 8/18 complete - Paused until I have more experience
 
 #################
 
@@ -34,7 +37,7 @@ For Others:
 #################
 
 - 🖖 A bit more about me - 
-I'm diving headlong into the world of tech, specifically Cybersecurity and Networking. I have a wide range of skills from my time in retail to my experience as a biology research assistant and now my current position as an IT Technical Support Representative. I am a quick study, I love to learn, and I have excellent communication skills from my time in customer service. These qualities and more make me a great asset to any team. When I'm not studying for certs or keeping up to date with the latest tech-related news, I'm likely tinkering on my Linux VM, hanging with my partner and our cat, playing tabletop- or videogames with my friends, or watching something nerdy on TV (Star Trek, anyone?).
+I'm diving headlong into the world of tech, specifically Cybersecurity and Networking. I have a wide range of skills from my time in retail to my experience as a biology research assistant and now my current position as an IT Technical Support Representative. I am a quick study, I love to learn, and I have excellent communication skills from my time in customer service. These qualities and more make me a great asset to any team. When I'm not studying for certs or keeping up to date with the latest tech-related news, I'm likely tinkering on my Linux VM, hanging with my partner and our cat, playing tabletop games or videogames with my friends, or watching something nerdy on TV (Star Trek, anyone?).
 
 
 #################
@@ -44,6 +47,7 @@ I'm diving headlong into the world of tech, specifically Cybersecurity and Netwo
 📫 tc.anderson.tech@gmail.com
 🌎 Links: 
     - LinkedIn: www.linkedin.com/in/tyler-c-anderson
+    - TryHackMe: https://tryhackme.com/p/Hack.Katz
 
 <!---
 TylerC-Anderson/TylerC-Anderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
