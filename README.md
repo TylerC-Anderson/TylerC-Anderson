@@ -49,8 +49,6 @@ I'm diving headlong into the world of tech, specifically Cybersecurity and Netwo
     - LinkedIn: www.linkedin.com/in/tyler-c-anderson
     - TryHackMe: https://tryhackme.com/p/Hack.Katz
 
-<script src="https://tryhackme.com/badge/993838"></script>
-
 <!---
 TylerC-Anderson/TylerC-Anderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
