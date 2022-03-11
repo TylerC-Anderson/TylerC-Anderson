@@ -12,9 +12,9 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
 #################
 
 - What I'm currently working on:
-👾 TryHackMe:             Pre-Security Path| 3/16 (15%) Complete
+👾 TryHackMe:             Pre-Security Path| 6/16 (36%) Complete
 📺 ITProTV:               A+ Course Sections complete| 6/18 complete  
-  - Current Section:      Network Infrastructure Concepts| 20/29 complete
+  - Current Section:      Network Infrastructure Concepts| 22/29 (76%) complete
 
 Currently Paused
 🛠 Hack the Box Academy:   Linux Fundamentals Course| 8/18 complete - Paused until I have more experience
