@@ -15,6 +15,8 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
 👾 TryHackMe:             Pre-Security Path| 6/16 (36%) Complete
 📺 ITProTV:               A+ Course Sections complete| 6/18 complete  
   - Current Section:      Network Infrastructure Concepts| 22/29 (76%) complete
+⛏️ Current Project:       PiHole Personal DNS Server | Progress: Ordered Parts
+                          -Completed Steps:
 
 Currently Paused
 🛠 Hack the Box Academy:   Linux Fundamentals Course| 8/18 complete - Paused until I have more experience
