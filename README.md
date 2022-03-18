@@ -13,7 +13,7 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
 
 - What I'm currently working on:
 ⛏️ Physical Project:       PiHole Personal DNS Server | Progress: Practicing soldering
-📜 Scripting project:      Creating a link retriever in python | Progress: refreshing python knowledge
+📜 Scripting project:      Creating a link retriever in python (see [Link Copying Script](https://github.com/TylerC-Anderson/Link-copying-script)) | Progress: refreshing python knowledge
                             - Completed:  learned about creating and editing files with output in python
                             – Need to do: crawl for links in google Drive, take those links and append to a running list in the output file,
 
