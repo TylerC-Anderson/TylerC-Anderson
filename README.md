@@ -25,7 +25,8 @@ Soldering, Ordered Parts
               *ITProTV | ITProTV: Network Infrastructure concepts
 
 Currently Paused
-🛠 Hack the Box Academy:   Linux Fundamentals Course| 8/18 complete - Paused until I have more experience
+🛠 Hack the Box Academy:   Linux Fundamentals Course| 8/18 complete - Sensed that this isn't for beginners,
+                                                                      paused until I have more experience
 
 #################
 
