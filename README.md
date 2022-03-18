@@ -12,7 +12,12 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
 #################
 
 - What I'm currently working on:
-⛏️ Current Project:       PiHole Personal DNS Server | Progress: Practicing Soldering, Ordered Parts
+⛏️ Physical Project:       PiHole Personal DNS Server | Progress: Practicing soldering
+📜 Scripting project:      Creating a link retriever in python | Progress: refreshing python knowledge
+                            - Completed:  learned about creating and editing files with output in python
+                            – Need to do: crawl for links in google Drive, take those links and append to a running list in the output file,
+
+Soldering, Ordered Parts
 👾 TryHackMe:             Pre-Security Path| 12/16 (74%) Complete
 📺 ITProTV:               A+ Course Sections complete| 7/18 complete  
   - Current Section:      Configuring and Troubleshooting Networks| 0/12 (0%) complete
@@ -30,7 +35,7 @@ Personal projects:
 ✔️ Upgraded and reinstalled OSs
 ✔️ Set up VMs of two Linux machines, Ubuntu and Kali
 ✔️ Set up a packet sniffer
-✔️ Coded smaller python scripts
+✔️ Coded a web crawler in python
 
 For Others:
 ✔️ Worked in professional settings with both Mac and PC (Personal computer and current job is Windows on Baremetal)
