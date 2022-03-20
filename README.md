@@ -17,9 +17,9 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
                             - Completed:  learned about creating and editing files with output in python
                             – Need to do: crawl for links in google Drive, take those links and append to a running list in the output file,
 
-👾 TryHackMe:             Pre-Security Path| 12/16 (74%) Complete
-📺 ITProTV:               A+ Course Sections complete| 7/18 complete  
-  - Current Section:      Configuring and Troubleshooting Networks| 0/12 (0%) complete
+👾 TryHackMe:             Pre-Security Path| 14/16 (89%) Complete
+📺 ITProTV:               A+ Course Sections complete| 7/18 (39%) complete  
+  - Current Section:      Configuring and Troubleshooting Networks| 4/12 (33%) complete
   - Complete Courses:
               *ITProTV | ITProTV: Network Infrastructure concepts
 
@@ -32,15 +32,15 @@ Currently Paused
 - What I've actually done:
 Personal projects:
 ✔️ Built, troubleshot, maintained my own custom desktop PC. I have upgraded the case, storage, memory, cooling, mobo, CPU, and expansion cards multiple times.
-✔️ Upgraded and reinstalled OSs
+✔️ Upgraded, repaired, and reinstalled OSs
 ✔️ Set up VMs of two Linux machines, Ubuntu and Kali
 ✔️ Set up a packet sniffer
 ✔️ Coded a web crawler in python
 
 For Others:
-✔️ Worked in professional settings with both Mac and PC (Personal computer and current job is Windows on Baremetal)
-✔️ Troubleshot issues for coworkers, friends, and family
-✔️ Set up Google inboxing rules and advised on backup solutions in my consulting role.
+✔️ Worked in professional settings with both Mac and PC (Personal computer and current FT position is Windows)
+✔️ Troubleshot issues for self, coworkers, friends, and family
+✔️ Set up Google inboxing rules and advised on backup solutions in my consulting role. Also investigating tool creation for functions my client's needs.
 
 #################
 
