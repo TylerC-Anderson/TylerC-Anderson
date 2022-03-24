@@ -12,16 +12,21 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
 #################
 
 - What I'm currently working on:
-⛏️ Physical Project:       PiHole Personal DNS Server | Progress: Practicing Soldering, Ordered Parts
+⛏️ Physical Project:       PiHole Personal DNS Server | Progress: Practicing Soldering, preparing to build Raspberry Pi (Baking the pie!)
 📜 Scripting project:      Creating a link retriever in python (see [Link Copying Script](https://github.com/TylerC-Anderson/Link-copying-script)) | Progress: refreshing python knowledge
                             - Completed:  learned about creating and editing files with output in python
                             – Need to do: crawl for links in google Drive, take those links and append to a running list in the output file,
 
-👾 TryHackMe:             Pre-Security Path| 14/16 (89%) Complete
-📺 ITProTV:               A+ Course Sections complete| 7/18 (39%) complete  
-  - Current Section:      Configuring and Troubleshooting Networks| 4/12 (33%) complete
-  - Complete Courses:
-              *ITProTV | ITProTV: Network Infrastructure concepts
+👾 TryHackMe:             Complete (Security) Beginner| 6/33 (18%) Complete
+📺 ITProTV:               A+ Course Sections complete | 7/18 (39%) complete  
+  - Current Section: Managing Users, Workstations, and Shared Resources| 2/15 (13%) complete    
+
+Completed Courses:
+  - ITProTV 
+        | Network Infrastructure concepts
+        | Configuring and Troubleshooting Networks
+  - TryHackMe
+        | Pre-Security Path
 
 Currently Paused
 🛠 Hack the Box Academy:   Linux Fundamentals Course| 8/18 complete - Sensed that this isn't for beginners,
