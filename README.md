@@ -19,6 +19,7 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
 
 👾 TryHackMe:             Complete (Security) Beginner| 12/33 (31%) Complete 
   - Current Section: (Enumerating and Exploiting) Network Services 2| 3/4 (75%)
+  
 📺 ITProTV:               A+ Course Sections complete* | 9/18 (50%) complete  
   - Current Section: Managing Users, Workstations, and Shared Resources| 13/15 (87%) complete    
 
