@@ -16,8 +16,8 @@ What I'm currently working on:
 ⛏️ Physical Project:       PiHole Personal DNS Sinkhole | Progress: Practicing Soldering, preparing to build Raspberry Pi (Baking the pie!)
 
 📜 Scripting project:      Creating a link retriever in python (see [Link Copying Script](https://github.com/TylerC-Anderson/Link-copying-script)) | Progress: refreshing python knowledge
-                            - Completed:  learned about creating and editing files with output in python
-                            – Need to do: crawl for links in google Drive, take those links and append to a running list in the output file,
+  - Completed:  learned about creating and editing files with output in python
+  – Need to do: crawl for links in google Drive, take those links and append to a running list in the output file,
 
 👾 TryHackMe:             Complete (Security) Beginner| 12/33 (31%) Complete 
   - Current Section: (Enumerating and Exploiting) Network Services 2| 3/4 (75%)
