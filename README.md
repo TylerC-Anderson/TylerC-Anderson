@@ -17,14 +17,16 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
                             - Completed:  learned about creating and editing files with output in python
                             – Need to do: crawl for links in google Drive, take those links and append to a running list in the output file,
 
-👾 TryHackMe:             Complete (Security) Beginner| 6/33 (18%) Complete
-📺 ITProTV:               A+ Course Sections complete | 7/18 (39%) complete  
-  - Current Section: Managing Users, Workstations, and Shared Resources| 2/15 (13%) complete    
+👾 TryHackMe:             Complete (Security) Beginner| 12/33 (31%) Complete 
+  - Current| (Enumerating and Exploiting) Network Services 2| 3/4 (75%)
+📺 ITProTV:               A+ Course Sections complete* | 9/18 (50%) complete  
+  - Current Section: Managing Users, Workstations, and Shared Resources| 13/15 (87%) complete    
 
 Completed Courses:
   - ITProTV 
         | Network Infrastructure concepts
         | Configuring and Troubleshooting Networks
+        | Security Concepts
   - TryHackMe
         | Pre-Security Path
 
@@ -61,6 +63,9 @@ I'm diving headlong into the world of tech, specifically Cybersecurity and Netwo
 🌎 Links: 
     - LinkedIn: www.linkedin.com/in/tyler-c-anderson
     - TryHackMe: https://tryhackme.com/p/Hack.Katz
+
+
+*NOTES: I am skipping around in A+ to teach me the most relevant skills to my goals. I do not plan on completing it or getting the cert for this, only to prep for the Net+ and Sec+, which seem more relevant to me. I will revisit the A+ sections as necessary in the future
 
 <!---
 TylerC-Anderson/TylerC-Anderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
