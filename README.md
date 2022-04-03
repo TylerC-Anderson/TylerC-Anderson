@@ -18,7 +18,7 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
                             – Need to do: crawl for links in google Drive, take those links and append to a running list in the output file,
 
 👾 TryHackMe:             Complete (Security) Beginner| 12/33 (31%) Complete 
-  - Current| (Enumerating and Exploiting) Network Services 2| 3/4 (75%)
+  - Current Section: (Enumerating and Exploiting) Network Services 2| 3/4 (75%)
 📺 ITProTV:               A+ Course Sections complete* | 9/18 (50%) complete  
   - Current Section: Managing Users, Workstations, and Shared Resources| 13/15 (87%) complete    
 
