@@ -13,29 +13,33 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
 
 What I'm currently working on:
 
-⛏️ Physical Project:       PiHole Personal DNS Sinkhole | Progress: Practicing Soldering, preparing to build Raspberry Pi (Baking the pie!)
+⛏️ Physical Project:       PiHole Personal DNS Sinkhole | Progress: Soldered the Pi, working with the OS (Baking the pie!)
 
 📜 Scripting project:      Creating a link retriever in python (see [Link Copying Script](https://github.com/TylerC-Anderson/Link-copying-script)) | Progress: refreshing python knowledge
   - Completed:  learned about creating and editing files with output in python
   - Need to do: crawl for links in google Drive, take those links and append to a running list in the output file,
 
-👾 TryHackMe:             Complete (Security) Beginner| 12/33 (31%) Complete 
-  - Current Section: (Enumerating and Exploiting) Network Services 2| 3/4 (75%)
+👾 TryHackMe:             Complete (Security) Beginner| 15/33 (31%) Complete 
+  - Current Section: OWASP Top 10| 3/7 (42%) Complete
   
-📺 ITProTV:               A+ Course Sections complete* | 9/18 (50%) complete  
-  - Current Section: Managing Users, Workstations, and Shared Resources| 13/15 (87%) complete    
+📺 ITProTV:               Network+ (N10-008)          | 4/70 (5%) Complete
 
 Completed Courses:
   - ITProTV 
         | Network Infrastructure concepts
         | Configuring and Troubleshooting Networks
+        | Configuring and Troubleshooting Hardware, OSes
         | Security Concepts
+        | Managing Users
   - TryHackMe
         | Pre-Security Path
 
 Currently Paused
 🛠 Hack the Box Academy:   Linux Fundamentals Course| 8/18 complete - Sensed that this isn't for beginners,
                                                                       paused until I have more experience
+
+A+ Course Sections complete* | 11/18 (55%) Complete
+  -Paused until I find I need more foundational Knowledge to understand something
 
 #################
 
@@ -61,7 +65,7 @@ I'm diving headlong into the world of tech, specifically Cybersecurity and Netwo
 #################
 
 - How to reach me 
-☎️ (907)444-0405
+☎️ (907) 444-0405
 📫 tc.anderson.tech@gmail.com
 🌎 Links: 
     - LinkedIn: www.linkedin.com/in/tyler-c-anderson
