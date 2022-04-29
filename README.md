@@ -22,7 +22,7 @@ What I'm currently working on:
 👾 TryHackMe:             Complete (Security) Beginner| 15/33 (31%) Complete 
   - Current Section: OWASP Top 10| 3/7 (42%) Complete
   
-📺 ITProTV:               Network+ (N10-008)          | 4/70 (5%) Complete
+📺 ITProTV:               Network+ (N10-008)          | 7/70 (10%) Complete
 
 Completed Courses:
   - ITProTV 
