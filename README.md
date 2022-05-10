@@ -13,7 +13,8 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
 
 What I'm currently working on:
 
-⛏️ Physical Project:       PiHole Personal DNS Sinkhole | Progress: Soldered the Pi, working with the OS (Baking the pie!)
+⛏️ Physical Project:       PiHole Personal DNS Sinkhole | Progress: Pi is currently working as DNS sinkhole, now will allow it to make requests to authoritative DNS servers. Will no
+                                                                      longer use other DNS servers. This should improve privacy and make certain attacks, such as DNS poisoning, more difficult.
 
 📜 Scripting project:      Creating a link retriever in python (see [Link Copying Script](https://github.com/TylerC-Anderson/Link-copying-script)) | Progress: refreshing python knowledge
   - Completed:  learned about creating and editing files with output in python
@@ -50,6 +51,7 @@ Personal projects:
 ✔️ Set up VMs of two Linux machines, Ubuntu and Kali
 ✔️ Set up a packet sniffer
 ✔️ Coded a web crawler in python
+✔️ Set up a DNS Sinkhole using a raspberry pi.
 
 For Others:
 ✔️ Worked in professional settings with both Mac and PC (Personal computer and current FT position is Windows)
