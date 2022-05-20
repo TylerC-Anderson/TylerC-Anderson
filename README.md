@@ -16,14 +16,12 @@ What I'm currently working on:
 ⛏️ Physical Project:       PiHole Personal DNS Sinkhole | Progress: Pi is currently working as DNS sinkhole, now will allow it to make requests to authoritative DNS servers. Will no
                                                                       longer use other DNS servers. This should improve privacy and make certain attacks, such as DNS poisoning, more difficult.
 
-📜 Scripting project:      Creating a link retriever in python (see [Link Copying Script](https://github.com/TylerC-Anderson/Link-copying-script)) | Progress: refreshing python knowledge
-  - Completed:  learned about creating and editing files with output in python
-  - Need to do: crawl for links in google Drive, take those links and append to a running list in the output file,
-
-👾 TryHackMe:             Complete (Security) Beginner| 15/33 (31%) Complete 
-  - Current Section: OWASP Top 10| 3/7 (42%) Complete
+📜 Scripting project:      Learning Web Dev| Checking out the Odin Project
   
-📺 ITProTV:               Network+ (N10-008)          | 7/70 (10%) Complete
+
+👾 TryHackMe:             Complete (Security) Beginner| 17/33 (51%) Complete 
+  
+📺 ITProTV:               Network+ (N10-008)          | 24/70 (34%) Complete
 
 Completed Courses:
   - ITProTV 
@@ -48,20 +46,20 @@ A+ Course Sections complete* | 11/18 (55%) Complete
 Personal projects:
 ✔️ Built, troubleshot, maintained my own custom desktop PC. I have upgraded the case, storage, memory, cooling, mobo, CPU, and expansion cards multiple times.
 ✔️ Upgraded, repaired, and reinstalled OSs
-✔️ Set up VMs of two Linux machines, Ubuntu and Kali
+✔️ Set up multiple VMs
 ✔️ Set up a packet sniffer
 ✔️ Coded a web crawler in python
 ✔️ Set up a DNS Sinkhole using a raspberry pi.
 
 For Others:
-✔️ Worked in professional settings with both Mac and PC (Personal computer and current FT position is Windows)
+✔️ Worked in professional settings with both Mac and PC (Personal computer and current FT position is Windows, lab environments are in Linux)
 ✔️ Troubleshot issues for self, coworkers, friends, and family
 ✔️ Set up Google inboxing rules and advised on backup solutions in my consulting role. Also investigating tool creation for functions my client's needs.
 
 #################
 
 - 🖖 A bit more about me - 
-I'm diving headlong into the world of tech, specifically Cybersecurity and Networking. I have a wide range of skills from my time in retail to my experience as a biology research assistant and now my current position as an IT Technical Support Representative. I am a quick study, I love to learn, and I have excellent communication skills from my time in customer service. These qualities and more make me a great asset to any team. When I'm not studying for certs or keeping up to date with the latest tech-related news, I'm likely tinkering on my Linux VM, hanging with my partner and our cat, playing tabletop games or videogames with my friends, or watching something nerdy on TV (Star Trek, anyone?).
+I'm diving headlong into the world of tech, specifically Cybersecurity and Networking. I have a wide range of skills from my time in retail to my experience as a biology research assistant and now my current position as an IT Technical Support Representative. I am a quick study, I love to learn, and I have excellent communication skills from my time in customer service. These qualities and more make me a great asset to any team. When I'm not studying for certs or keeping up to date with the latest tech-related news, I'm likely tinkering on my Linux VM, hanging with my partner and our cat, playing tabletop games or videogames with my friends, or watching something nerdy on TV.
 
 
 #################
