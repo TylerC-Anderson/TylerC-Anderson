@@ -16,8 +16,8 @@ What I'm currently working on:
 ⛏️ Physical Project:       PiHole Personal DNS Sinkhole | Progress: Pi is currently working as DNS sinkhole, now will allow it to make requests to authoritative DNS servers. Will no
                                                                       longer use other DNS servers. This should improve privacy and make certain attacks, such as DNS poisoning, more difficult.
 
-📜 Scripting project:      Learning Web Dev| Checking out the Odin Project
-  
+📜 Scripting project:      The Odin Project| (Still enumerating the progress)
+                                        - Starting the introduction, setting up the workspace
 
 👾 TryHackMe:             Complete (Security) Beginner| 17/33 (51%) Complete 
   
