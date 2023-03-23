@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Tyler (@TylerC-Anderson)<br>
+👋 Hi, I’m Tyler (@TylerC-Anderson)<br>
 Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Following are some sections about my journey into the wide world of technology. Everything contained here and elsewhere on my git are all works in progress and thus are subject to edits, thoughts, and revisions. Please reach out to chat or let me know if there was anything you liked, or that drove you crazy.
 
 
 #################
 
-- In summary:<br>
+In summary:<br>
 👀 I’m interested in Cybersecurity and Networking<br>
 🌱 I’m currently learning Networking (A+ and Net+), Linux, Python, and CtFs.<br>
 🤝 I’m looking to collaborate on learning Cybersecurity and Networking together, or any project of yours that's interesting you think I would make a good contribution to! There's a lot I need to experience so if you have something weird or cool please feel free to share!
