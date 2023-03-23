@@ -1,4 +1,4 @@
-👋 Hi, I’m Tyler (@TylerC-Anderson)<br>
+ 👋 Hi, I’m Tyler (@TylerC-Anderson)<br>
 Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Following are some sections about my journey into the wide world of technology. Everything contained here and elsewhere on my git are all works in progress and thus are subject to edits, thoughts, and revisions. Please reach out to chat or let me know if there was anything you liked, or that drove you crazy.
 
 
@@ -20,7 +20,7 @@ What I'm currently working on:
 ⛏️ Physical Project:   None Currently
 
 
-Completed Courses:
+Completed Courses:<br>
   ITProTV <br>
         | Network Infrastructure concepts<br>
         | Configuring and Troubleshooting Networks<br>
@@ -60,13 +60,13 @@ For Others:<br>
 
 #################
 
-- 🖖 A bit more about me - <br>
+ 🖖 A bit more about me - <br>
 I'm diving headlong into the world of tech, specifically Cybersecurity and Networking. I have a wide range of skills from my time in retail to my experience as a biology research assistant and now my current position as an IT Technical Support Representative. I am a quick study, I love to learn, and I have excellent communication skills from my time in customer service. These qualities and more make me a great asset to any team. When I'm not studying for certs or keeping up to date with the latest tech-related news, I'm likely tinkering on my Linux VM, hanging with my partner and our cat, playing tabletop games or videogames with my friends, or watching something nerdy on TV.
 
 
 #################
 
-- How to reach me <br>
+ How to reach me <br>
 ☎️ (907) 444-0405<br>
 📫 tc.anderson.tech@gmail.com<br>
 🌎 Links: <br>
