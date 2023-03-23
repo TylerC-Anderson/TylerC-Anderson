@@ -14,7 +14,7 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
 What I'm currently working on:
 
 ✏️ Courses:
-    (OSSU)[https://github.com/ossu/computer-science]: 
+    [OSSU](https://github.com/ossu/computer-science): 
 
 ⛏️ Physical Project:   None Currently
 
