@@ -43,7 +43,8 @@ Completed Projects!<br>
 
 #################
 
-- What I've actually done:<br>
+What I've actually done:<br>
+
 Personal projects:<br>
 ✔️ Built, troubleshot, maintained my own custom desktop PC. I have upgraded the case, storage, memory, cooling, mobo, CPU, and expansion cards multiple times.<br>
 ✔️ Upgraded, repaired, and reinstalled OSs<br>
