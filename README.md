@@ -13,15 +13,11 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
 
 What I'm currently working on:
 
-⛏️ Physical Project:       PiHole Personal DNS Sinkhole | Progress: Pi is currently working as DNS sinkhole, now will allow it to make requests to authoritative DNS servers. Will no
-                                                                      longer use other DNS servers. This should improve privacy and make certain attacks, such as DNS poisoning, more difficult.
+✏️ Courses:
+    (OSSU)[https://github.com/ossu/computer-science]: 
 
-📜 Scripting project:      The Odin Project| (Still enumerating the progress)
-                                        - Starting the introduction, setting up the workspace
+⛏️ Physical Project:   None Currently
 
-👾 TryHackMe:             Complete (Security) Beginner| 17/33 (51%) Complete 
-  
-📺 ITProTV:               Network+ (N10-008)          | 24/70 (34%) Complete
 
 Completed Courses:
   - ITProTV 
@@ -36,9 +32,13 @@ Completed Courses:
 Currently Paused
 🛠 Hack the Box Academy:   Linux Fundamentals Course| 8/18 complete - Sensed that this isn't for beginners,
                                                                       paused until I have more experience
-
+👾 TryHackMe:             Complete (Security) Beginner| 17/33 (51%) Complete                                                                       
 A+ Course Sections complete* | 11/18 (55%) Complete
   -Paused until I find I need more foundational Knowledge to understand something
+
+Completed Projects!
+-PiHole Personal DNS Sinkhole:
+--Status: Being used daily! Pi is currently working as DNS sinkhole, now will allow it to make requests to authoritative DNS servers. Will no longer use other DNS servers. This should improve privacy and make certain attacks, such as DNS poisoning, more difficult.
 
 #################
 
