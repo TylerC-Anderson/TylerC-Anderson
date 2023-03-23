@@ -14,7 +14,7 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
 What I'm currently working on:
 
 ✏️ Courses:<br>
-    [OSSU](https://github.com/ossu/computer-science): [PY4E](https://www.py4e.com/lessons)<br>
+    [Open-Source Society University](https://github.com/ossu/computer-science): [PY4E](https://www.py4e.com/lessons)<br>
     Professor Messer's Security+ Course<br>
     Coursera Security+ Labs<br>
 
@@ -22,21 +22,21 @@ What I'm currently working on:
 
 
 Completed Courses:
-  - ITProTV 
-        | Network Infrastructure concepts
-        | Configuring and Troubleshooting Networks
-        | Configuring and Troubleshooting Hardware, OSes
-        | Security Concepts
-        | Managing Users
-  - TryHackMe
-        | Pre-Security Path
+  - ITProTV <br>
+        | Network Infrastructure concepts<br>
+        | Configuring and Troubleshooting Networks<br>
+        | Configuring and Troubleshooting Hardware, OSes<br>
+        | Security Concepts<br>
+        | Managing Users<br><br>
+  - TryHackMe<br>
+        | Pre-Security Path<br>
 
-Currently Paused
+Currently Paused<br>
 🛠 Hack the Box Academy:   Linux Fundamentals Course| 8/18 complete - Sensed that this isn't for beginners,
-                                                                      paused until I have more experience
-👾 TryHackMe:             Complete (Security) Beginner| 17/33 (51%) Complete                                                                       
-A+ Course Sections complete* | 11/18 (55%) Complete
-  -Paused until I find I need more foundational Knowledge to understand something
+                                                                      paused until I have more experience<br>
+👾 TryHackMe:     Complete (Security) Beginner| 17/33 (51%) Complete<br>
+A+ Course Sections complete* | 11/18 (55%) Complete<br>
+  -Paused until I find I need more foundational Knowledge to understand something<br>
 
 Completed Projects!
 -PiHole Personal DNS Sinkhole:
