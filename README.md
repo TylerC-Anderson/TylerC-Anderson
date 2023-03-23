@@ -4,7 +4,7 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
 
 #################
 
-- In summary:
+- In summary:<br>
 👀 I’m interested in Cybersecurity and Networking<br>
 🌱 I’m currently learning Networking (A+ and Net+), Linux, Python, and CtFs.<br>
 🤝 I’m looking to collaborate on learning Cybersecurity and Networking together, or any project of yours that's interesting you think I would make a good contribution to! There's a lot I need to experience so if you have something weird or cool please feel free to share!
