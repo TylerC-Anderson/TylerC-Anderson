@@ -13,8 +13,10 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
 
 What I'm currently working on:
 
-✏️ Courses:
-    [OSSU](https://github.com/ossu/computer-science): 
+✏️ Courses:<br>
+    [OSSU](https://github.com/ossu/computer-science): [PY4E](https://www.py4e.com/lessons)<br>
+    Professor Messer's Security+ Course<br>
+    Coursera Security+ Labs<br>
 
 ⛏️ Physical Project:   None Currently
 
