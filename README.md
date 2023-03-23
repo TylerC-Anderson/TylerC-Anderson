@@ -68,7 +68,7 @@ I'm diving headlong into the world of tech, specifically Cybersecurity and Netwo
 
  How to reach me <br>
 ☎️ (907) 444-0405<br>
-📫 tc.anderson.tech@gmail.com<br>
+📫 tc.anderson.tech@gmail.com<br><br>
 🌎 Links: <br>
     - LinkedIn: www.linkedin.com/in/tyler-c-anderson<br>
     - TryHackMe: https://tryhackme.com/p/Hack.Katz<br>
