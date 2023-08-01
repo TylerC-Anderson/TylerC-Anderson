@@ -7,18 +7,19 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
 In summary:<br>
 👀 I’m interested in Cybersecurity and Networking<br>
 🌱 I’m currently learning Networking (A+ and Net+), Linux, Python, and CtFs.<br>
-🤝 I’m looking to collaborate on learning Cybersecurity and Networking together, or any project of yours that's interesting you think I would make a good contribution to! There's a lot I need to experience so if you have something weird or cool please feel free to share!
+🤝 I’m looking to collaborate on programming, learning Cybersecurity, Networking, or any project of yours that's interesting you think I would make a good contribution to!
 
 #################
 
 What I'm currently working on:
 
 ✏️ Courses:<br>
-    [Open-Source Society University](https://github.com/ossu/computer-science) (OSSU): [PY4E](https://www.py4e.com/lessons)<br>
-    Professor Messer's Security+ Course<br>
-    Coursera Security+ Labs<br>
-⛏️ Physical Project:   None Currently
 
+✏️ BS: Computer Science | Southern New Hampshire University
+
+⛏️ Physical Project:   Dual boot windows/linux on home PC, issues with shutdown. Hangs with an error regarding SystemMD unable to shutdown networking related processes. Shutdown via power button turns machine off, and seems to have no ill effects, but is annoying.
+
+⛏️ The Elements of Computing Systems: Building a Modern Computer from First Principles (AKA NaND2Tetris) | Book
 
 Completed Courses:<br>
   ITProTV <br>
@@ -33,6 +34,9 @@ Completed Courses:<br>
 Currently Paused<br>
 🛠 Hack the Box Academy:   Linux Fundamentals Course| 8/18 complete - Sensed that this isn't for beginners,
                                                                       paused until I have more experience<br>
+[Open-Source Society University](https://github.com/ossu/computer-science) (OSSU): [PY4E](https://www.py4e.com/lessons)<br>
+Professor Messer's Security+ Course<br>
+Coursera Security+ Labs<br>
 👾 TryHackMe:     Complete (Security) Beginner| 17/33 (51%) Complete<br>
 A+ Course Sections complete* | 11/18 (55%) Complete<br>
   -Paused until I find I need more foundational Knowledge to understand something<br>
@@ -67,7 +71,7 @@ I'm diving headlong into the world of tech, specifically Cybersecurity and Netwo
 #################
 
  How to reach me <br>
-☎️ (907) 444-0405<br>
+☎️ (908) 361-4055<br>
 📫 tc.anderson.tech@gmail.com<br><br>
 🌎 Links: <br>
     - LinkedIn: www.linkedin.com/in/tyler-c-anderson<br>
