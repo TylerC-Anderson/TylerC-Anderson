@@ -56,6 +56,8 @@ Personal projects:<br>
 ✔️ Set up a packet sniffer<br>
 ✔️ Coded a web crawler in python<br>
 ✔️ Set up a DNS Sinkhole using a raspberry pi.<br>
+✔️ Set up a home network with multiple devices<br>
+✔️ Coded numerous quick scripts, both for school and for work productivity<br>
 
 For Others:<br>
 ✔️ Worked in professional settings with both Mac and PC (Personal computer and current FT position is Windows, lab environments are in Linux)<br>
