@@ -13,9 +13,9 @@ In summary:<br>
 
 What I'm currently working on:
 
-✏️ Courses:<br>
+✏️ Education:<br>
 
-✏️ BS: Computer Science | Southern New Hampshire University
+✏️ BS Degree: Computer Science | Southern New Hampshire University
 
 ⛏️ Physical Project:   Dual boot windows/linux on home PC, issues with shutdown. Hangs with an error regarding SystemMD unable to shutdown networking related processes. Shutdown via power button turns machine off, and seems to have no ill effects, but is annoying.
 
@@ -44,6 +44,11 @@ A+ Course Sections complete* | 11/18 (55%) Complete<br>
 Completed Projects!<br>
  PiHole Personal DNS Sinkhole:<br>
    Status: Being used daily! Pi is currently working as DNS sinkhole, now will allow it to make requests to authoritative DNS servers. Will no longer use other DNS servers. This should improve privacy and make certain attacks, such as DNS poisoning, more difficult.
+
+Project Ideas:
+Home Hosting - Would like to make a home server running plex for streaming, as well as any other home-hostable service I can think of. Could run as a VM on a cloud machine I subscribe to, but would mostly like to build my own box and run it from home. Owning the machine and running from home ould assist with latency and downtime would be fixable locally. Could also move the DNS sinkhole to this machine as well. Could maybe even set up a virtual machine on it and use it as a hackable box to train pentesting on. Finally could also use this machine whenever I play a game that requires a server to be run from home in order for multiplayer to work.
+
+Work automated emailing - My position requires numerous emails to be sent out each day and the emails are autoformatted and sent with the same attachments each time based off relatively simple criteria. Would be nice to find some way to have a script look at my schedule for the day, check the statuses of each contact, and send out the appropriate emails and attachments at the click of a button.
 
 #################
 
