@@ -84,9 +84,6 @@ I'm diving headlong into the world of tech, specifically Cybersecurity and Netwo
     - LinkedIn: www.linkedin.com/in/tyler-c-anderson<br>
     - TryHackMe: https://tryhackme.com/p/Hack.Katz<br>
 
-
-*NOTES: I am skipping around in A+ to teach me the most relevant skills to my goals. I do not plan on completing it or getting the cert for this, only to prep for the Net+ and Sec+, which seem more relevant to me. I will revisit the A+ sections as necessary in the future. Likely the same deal for OSSU
-
 <!---
 TylerC-Anderson/TylerC-Anderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
