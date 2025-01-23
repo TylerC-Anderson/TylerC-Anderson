@@ -66,10 +66,8 @@ For Others:<br>
 #################
 
  How to reach me <br>
-☎️ (908) 361-4055<br>
-📫 tc.anderson.tech@gmail.com<br><br>
 🌎 Links: <br>
-    - LinkedIn: www.linkedin.com/in/tyler-c-anderson<br>
+    - Message me on LinkedIn: www.linkedin.com/in/tyler-c-anderson<br>
     - TryHackMe: https://tryhackme.com/p/Hack.Katz<br>
 
 #################
