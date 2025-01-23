@@ -5,8 +5,8 @@ Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Fo
 #################
 
 In summary:<br>
-👀 I’m interested in AI, Cybersecurity, Networking<br>
-🌱 I’m currently learning Networking, RHEL 8.<br>
+👀 I’m interested in Cybersecurity and Networking<br>
+🌱 I’m currently learning OverTheWire.org, Networking, Ubuntu Server <br>
 🤝 I’m looking to collaborate on AI, Cybersecurity, Networking, or any project of yours that's interesting you think I would make a good contribution to!
 
 #################
@@ -15,7 +15,7 @@ What I'm currently working on:
 
 ✏️ Education:<br>
 
-✏️ BS Degree: Computer Science | Southern New Hampshire University
+✏️ BS Degree: Computer Science | Arizona State University
 
 ⛏️ Physical Project:   Home Server- Media Streaming, Web Hosting
 
@@ -46,7 +46,7 @@ Completed Courses:<br>
 Completed Projects!<br>
  Home Hosting: Server is up an running! Setup a NAS, also working on setting up Jellyfin for media streaming.
  PiHole Personal DNS Sinkhole:<br>
-         Status: Retired, the way ads work no longer makes maintaining the PiHole worth maintaining. I intendto repurpose the Pi for use in some other project.
+         Status: Retired, the way ads work no longer makes maintaining the PiHole worth maintaining. I intend to repurpose the Pi for use in some other project.
 
 Personal projects:<br>
 ✔️ Built, troubleshot, maintained my own custom desktop PC. I have upgraded the case, storage, memory, cooling, mobo, CPU, and expansion cards multiple times.<br>
@@ -73,15 +73,6 @@ For Others:<br>
     - TryHackMe: https://tryhackme.com/p/Hack.Katz<br>
 
 #################
-
-Currently Paused<br>
-🛠 Hack the Box Academy:   Linux Fundamentals Course| 8/18 complete - Sensed that this isn't for beginners,
-                                                                      paused until I have more experience<br>
-Professor Messer's Security+ Course<br>
-Coursera Security+ Labs<br>
-👾 TryHackMe:     Complete (Security) Beginner| 17/33 (51%) Complete<br>
-A+ Course Sections complete* | 11/18 (55%) Complete<br>
-  -Paused until I find I need more foundational Knowledge to understand something<br>
 
 
 <!---
