@@ -1,4 +1,5 @@
- 👋 Hi, I’m Tyler (@TylerC-Anderson)<br>
+# 👋 Hi, I’m Tyler (@TylerC-Anderson)
+<br><br>
 Thanks for stopping by! Welcome to my blog/portfolio/project repo/technical journal. Following are some sections about my journey into the world of technology. Everything contained here and elsewhere on my git are all works in progress and thus are subject to edits, thoughts, and revisions. Please reach out to chat or let me know if there was anything you liked, or that drove you crazy.
 
 
