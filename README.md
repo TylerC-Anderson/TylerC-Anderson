@@ -1,12 +1,12 @@
  👋 Hi, I’m Tyler (@TylerC-Anderson)<br>
-Nice to meetcha! Welcome to my blog/portfolio/project repo/technical journal. Following are some sections about my journey into the wide world of technology. Everything contained here and elsewhere on my git are all works in progress and thus are subject to edits, thoughts, and revisions. Please reach out to chat or let me know if there was anything you liked, or that drove you crazy.
+Thanks for stopping by! Welcome to my blog/portfolio/project repo/technical journal. Following are some sections about my journey into the world of technology. Everything contained here and elsewhere on my git are all works in progress and thus are subject to edits, thoughts, and revisions. Please reach out to chat or let me know if there was anything you liked, or that drove you crazy.
 
 
 #################
 
 In summary:<br>
 👀 I’m interested in Cybersecurity and Networking<br>
-🌱 I’m currently learning OverTheWire.org, Networking, Ubuntu Server <br>
+🌱 I’m currently learning Python LLM-powered app development, OverTheWire.org, Networking, Ubuntu Server <br>
 🤝 I’m looking to collaborate on AI, Cybersecurity, Networking, or any project of yours that's interesting you think I would make a good contribution to!
 
 #################
@@ -14,12 +14,10 @@ In summary:<br>
 What I'm currently working on:
 
 ✏️ Education:<br>
+✏️ MS Degree, currently in Bridge Courses: Computer Science (Cybersecurity) | Arizona State University
 
-✏️ BS Degree: Computer Science | Arizona State University
+⛏️ Physical Project:   Home Server- Media Streaming, Web Hosting, Dockerized services admin
 
-⛏️ Physical Project:   Home Server- Media Streaming, Web Hosting
-
-⛏️ The Elements of Computing Systems: Built all elementary logic gates in Logisim
 
 Project Ideas
 
@@ -28,6 +26,9 @@ Project Ideas
 What I've done:<br>
 
 Completed Courses:<br>
+  ASU <br>
+        | Computer Systems Fundamentals (AKA Intro to Computing Architecture)
+        | Object Oriented Programming & Data in Java
   SNHU <br>
         | Introduction to Scripting
         | Introduction to Structured Database Environments
@@ -44,9 +45,9 @@ Completed Courses:<br>
         | Pre-Security Path<br>
 
 Completed Projects!<br>
- Home Hosting: Server is up an running! Setup a NAS, also working on setting up Jellyfin for media streaming.
+ Home Hosting: Server is up and running! Currently serving Jellyfin Media server with 99% uptime, publicly accessible via a Cloudflare reverse proxy, as well as a local NAS for data storage, all backed up with both cold and hot storage backup.
  PiHole Personal DNS Sinkhole:<br>
-         Status: Retired, the way ads work no longer makes maintaining the PiHole worth maintaining. I intend to repurpose the Pi for use in some other project.
+         Status: Retired, the way ads work no longer makes the PiHole worth maintaining. I intend to repurpose the Pi for use in some other project.
 
 Personal projects:<br>
 ✔️ Built, troubleshot, maintained my own custom desktop PC. I have upgraded the case, storage, memory, cooling, mobo, CPU, and expansion cards multiple times.<br>
@@ -59,16 +60,15 @@ Personal projects:<br>
 ✔️ Coded numerous quick scripts, both for school and for work productivity<br>
 
 For Others:<br>
-✔️ Worked in professional settings with both Mac and PC (Personal computer and current FT position is Windows, lab environments are in Linux)<br>
+✔️ Worked in professional settings with both Mac and PC (Personal computer in Windows and Linux, current FT position is in Mac, lab environments are in Linux)<br>
 ✔️ Troubleshot issues for self, coworkers, friends, and family<br>
-✔️ Set up Google inboxing rules and advised on backup solutions in my consulting role. Also investigating tool creation for functions my client's needs.<br>
 
 #################
 
  How to reach me <br>
 🌎 Links: <br>
     - Message me on LinkedIn: www.linkedin.com/in/tyler-c-anderson<br>
-    - TryHackMe: https://tryhackme.com/p/Hack.Katz<br>
+    - TryHackMe: https://tryhackme.com/p/.l1ch<br>
 
 #################
 
