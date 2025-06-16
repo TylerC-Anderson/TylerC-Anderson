@@ -2,14 +2,14 @@
 Thanks for stopping by! Welcome to my blog/portfolio/project repo/technical journal. Following are some sections about my journey into the world of technology. Everything contained here and elsewhere on my git are all works in progress and thus are subject to edits, thoughts, and revisions. Please reach out to chat or let me know if there was anything you liked, or that drove you crazy.
 
 
-#################
+---
 
 In summary:<br>
 👀 I’m interested in Cybersecurity and Networking, and my goal is to become a Red Team Engineer<br>
 🌱 I’m currently learning Python LLM-powered app development, OverTheWire.org, Networking, Ubuntu Server <br>
 🤝 I’m looking to collaborate on AI, Cybersecurity, Networking, or any project of yours that's interesting you think I would make a good contribution to!
 
-#################
+---
 
 What I'm currently working on:
 
@@ -21,7 +21,7 @@ What I'm currently working on:
 
 Project Ideas
 
-#################
+---
 
 What I've done:<br>
 
