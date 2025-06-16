@@ -20,8 +20,6 @@ What I'm currently working on:
 ⛏️ Physical Project:   Home Server- Media Streaming, Web Hosting, Dockerized services admin
 
 
-Project Ideas
-
 ---
 
 What I've done:<br>
