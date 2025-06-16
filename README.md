@@ -5,7 +5,7 @@ Thanks for stopping by! Welcome to my blog/portfolio/project repo/technical jour
 #################
 
 In summary:<br>
-👀 I’m interested in Cybersecurity and Networking<br>
+👀 I’m interested in Cybersecurity and Networking, and my goal is to become a Red Team Engineer<br>
 🌱 I’m currently learning Python LLM-powered app development, OverTheWire.org, Networking, Ubuntu Server <br>
 🤝 I’m looking to collaborate on AI, Cybersecurity, Networking, or any project of yours that's interesting you think I would make a good contribution to!
 
