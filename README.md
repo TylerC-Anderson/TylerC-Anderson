@@ -64,14 +64,13 @@ For Others:<br>
 ✔️ Worked in professional settings with both Mac and PC (Personal computer in Windows and Linux, current FT position is in Mac, lab environments are in Linux)<br>
 ✔️ Troubleshot issues for self, coworkers, friends, and family<br>
 
-#################
+---
 
  How to reach me <br>
 🌎 Links: <br>
     - Message me on LinkedIn: www.linkedin.com/in/tyler-c-anderson<br>
     - TryHackMe: https://tryhackme.com/p/.l1ch<br>
 
-#################
 
 
 <!---
