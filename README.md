@@ -29,11 +29,11 @@ Completed Courses:<br>
         | Computer Systems Fundamentals (AKA Intro to Computing Architecture)
         | Object Oriented Programming & Data in Java
   SNHU <br>
-        | Introduction to Scripting
-        | Introduction to Structured Database Environments
-        | Foundation in Application Development
-        | Programming Languages
-        | Software Development Lifecycle
+        | Introduction to Scripting: Python <br>
+        | Introduction to Structured Database Environments: mySQL <br>
+        | Foundation in Application Development: Java <br>
+        | Programming Languages: C++ <br>
+        | Software Development Lifecycle: Agile <br>
   ITProTV <br>
         | Network Infrastructure concepts<br>
         | Configuring and Troubleshooting Networks<br>
