@@ -28,6 +28,10 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
     - I prefer the latest generation of certs, because they are focused on hands-on labs, industry-standard penetration testing methodology and reporting, and real-world red team workflows. 
     - As practice, and hopefully to tie up another certification under my belt, I'm also working through the **CJCA** path in HackTheBox, and will grab that cert if I have time.
 
+- 🧩 **Offensive Security Notes Upload:** Gradually redacting and uploading my notes for certification prep, OverTheWire wargames, and other training boxes.
+    - These walkthroughs serve as both study references and public documentation of methodology.
+    - The aim is to provide a record of how I work, how I think, how I learn, and the technical depth I’ve built through hands-on practice.
+
 - 🎓 **M.S. Computer Science (Cybersecurity Focus)** — Arizona State University  
   *Paused for Cert Sprint - Bridge courses in progress - 4.0 GPA to date.*
 
