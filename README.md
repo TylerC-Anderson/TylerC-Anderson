@@ -40,7 +40,7 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 
 - **Wargames:** Completed *OverTheWire Bandit* & *Leviathan*, progressing through *Natas* (privilege escalation, scripting, web exploitation)
 - **Custom Tools:**
-    - PyScan - a DIY port scanner in Python that is like nmap's super incompetent cousin, but it works!
+    - PyScan - a DIY port scanner in Python that is like nmap's extremely less capable cousin, but it works!
     - various scripts for my day job - cannot include here due to legal stuffs
 - **Homelab**
     - Configured secure DNS sinkhole (PiHole)
