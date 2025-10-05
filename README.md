@@ -1,77 +1,81 @@
 # 👋 Hi, I’m Tyler (@TylerC-Anderson)
-<br><br>
-Thanks for stopping by! Welcome to my blog/portfolio/project repo/technical journal. Following are some sections about my journey into the world of technology. Everything contained here and elsewhere on my git are all works in progress and thus are subject to edits, thoughts, and revisions. Please reach out to chat or let me know if there was anything you liked, or that drove you crazy.
+
+🧙‍♂️ Welcome to the digital equivalent of my wizard's tower! 🧙‍♂️
+
+Here you'll find my lab notebook for ongoing experiments, and hopefully a few completed projects.
+
+If something here helps you, sparks an idea, or even drives you a little crazy then please reach out! I love talking shop about ethical hacking and self-hosting.
+
+---
+
+### 📜 Summary
+
+👀 **Focus:** Ethical Hacking, Cybersecurity, and Networking  
+🎯 **Goal:** Red Team Engineer (currently pursuing *PJPT* → *PNPT* → *CPTS* → *OSCP*)  
+🌱 **Currently Learning:** *PJPT*, HackTheBox labs towards *CJCA*
+🚀 **Next Steps:** Listed because they are many 😅
+ - Start my cybersecurity blog - security-related thoughts, experiences, and detailed walkthroughs from my journey
+ - Learn `vim`
+ - Learn Rust 🦀
+ - Practice Functional Programming
+🤝 **Open To:** Collaborating on cybersecurity tooling, networking experiments, AI security, or any project with a security twist  
+
+---
+
+### 🛠️ Current Works-in-Progress
+
+- 🧭 **Certification Sprint (2025–2026):** Completing a self-directed, year-long path toward the latest generation of ethical hacking certifications. In order I will get: **PJPT (TCM-Sec) → PNPT (TCM-Sec) → CPTS (HTB)**.
+    - I prefer the latest generation of certs, because they are focused on hands-on labs, industry-standard penetration testing methodology and reporting, and real-world red team workflows. 
+    - As practice, and hopefully to tie up another certification under my belt, I'm also working through the **CJCA** path in HackTheBox, and will grab that cert if I have time.
+
+- 🎓 **M.S. Computer Science (Cybersecurity Focus)** — Arizona State University  
+  *Paused for Cert Sprint - Bridge courses in progress - 4.0 GPA to date.*
+
+- 🧰 **Home Server Project** — Running Ubuntu with Dockerized services for media streaming, web hosting, and backups via Cloudflare reverse proxy  
+  *(99% uptime, remote available behind reverse proxy, serving Jellyfin + NAS storage)*
+
+---
+
+### 🧩 Completed Projects & Hands-On Security Practice
+
+- **Wargames:** Completed *OverTheWire Bandit* & *Leviathan*, progressing through *Natas* (privilege escalation, scripting, web exploitation)
+- **Custom Tools:**
+    - PyScan - a DIY port scanner in Python that is like nmap's super incompetent cousin, but it works!
+    - various scripts for my day job - cannot include here due to legal stuffs
+- **Homelab**
+    - Configured secure DNS sinkhole (PiHole)
+    - Pwnagotchi - Cannibalized from that PiHole; my lil' hacking buddy that eats salted wifi passwords (handshakes). Good for helping me to get out and take walks.
+        - Her name is `Haribo`
+            - Yes like the candy 🍬
+    - Riced linux desktop, a Dual-boot system running Sway.
+        - Yes, I do use *Arch, btw*
+        - Set up:
+            - `snapper` system snapshots
+            - workflow tooling
+            - full disk encryption
+        - Had to fix:
+            - converted from ext4 to BTRFS (so `snapper` would work)
+            - remapped encrypted disks after UUID changes
 
 
 ---
 
-In summary:<br>
-👀 I’m interested in Cybersecurity and Networking, and my goal is to become a Red Team Engineer<br>
-🌱 I’m currently learning Python LLM-powered app development, OverTheWire.org, Networking, Ubuntu Server <br>
-🤝 I’m looking to collaborate on AI, Cybersecurity, Networking, or any project of yours that's interesting you think I would make a good contribution to!
+### 💼 Professional Background
+
+Currently **Application Security Support Engineer @ Mend.io** — validating vulnerabilities, reproducing exploit conditions, and improving SaaS platform security.
+
+Past experience includes **Security Integration Analyst** and **IT Support Specialist (Security Focus)** at MRI Software, where I developed automation scripts, documented vulnerabilities, and coordinated secure API integrations.
 
 ---
 
-What I'm currently working on:
+### 🧠 Education Highlights
 
-✏️ Education:<br>
-✏️ MS Degree, currently in Bridge Courses: Computer Science (Cybersecurity) | Arizona State University
-
-⛏️ Physical Project:   Home Server- Media Streaming, Web Hosting, Dockerized services admin
-
+**Arizona State University** — *M.S. Computer Science (Cybersecurity Focus, 2028)*  
+**Rochester Institute of Technology** — *B.S. Biotechnology & Molecular Bioscience (2017)*  
+Additional coursework: Programming Language theory (all four paradigms), C++, Java, Python, Databases, Agile, SDLC, and Computer Architecture.
 
 ---
 
-What I've done:<br>
+### 🔗 Connect
 
-Completed Courses:<br>
-  ASU <br>
-        | Computer Systems Fundamentals (AKA Intro to Computing Architecture)
-        | Object Oriented Programming & Data in Java
-  SNHU <br>
-        | Introduction to Scripting: Python <br>
-        | Introduction to Structured Database Environments: mySQL <br>
-        | Foundation in Application Development: Java <br>
-        | Programming Languages: C++ <br>
-        | Software Development Lifecycle: Agile <br>
-  ITProTV <br>
-        | Network Infrastructure concepts<br>
-        | Configuring and Troubleshooting Networks<br>
-        | Configuring and Troubleshooting Hardware, OSes<br>
-        | Security Concepts<br>
-        | Managing Users<br><br>
-  TryHackMe<br>
-        | Pre-Security Path<br>
-
-Completed Projects!<br>
- Home Hosting: Server is up and running! Currently serving Jellyfin Media server with 99% uptime, publicly accessible via a Cloudflare reverse proxy, as well as a local NAS for data storage, all backed up with both cold and hot storage backup.
- PiHole Personal DNS Sinkhole:<br>
-         Status: Retired, the way ads work no longer makes the PiHole worth maintaining. I intend to repurpose the Pi for use in some other project.
-
-Personal projects:<br>
-✔️ Built, troubleshot, maintained my own custom desktop PC. I have upgraded the case, storage, memory, cooling, mobo, CPU, and expansion cards multiple times.<br>
-✔️ Upgraded, repaired, and reinstalled OSs<br>
-✔️ Set up multiple VMs<br>
-✔️ Set up a packet sniffer<br>
-✔️ Coded a web crawler in python<br>
-✔️ Set up a DNS Sinkhole using a raspberry pi.<br>
-✔️ Set up a home network with multiple devices<br>
-✔️ Coded numerous quick scripts, both for school and for work productivity<br>
-
-For Others:<br>
-✔️ Worked in professional settings with both Mac and PC (Personal computer in Windows and Linux, current FT position is in Mac, lab environments are in Linux)<br>
-✔️ Troubleshot issues for self, coworkers, friends, and family<br>
-
----
-
- How to reach me <br>
-🌎 Links: <br>
-    - Message me on LinkedIn: www.linkedin.com/in/tyler-c-anderson<br>
-    - TryHackMe: https://tryhackme.com/p/.l1ch<br>
-
-
-
-<!---
-TylerC-Anderson/TylerC-Anderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 [LinkedIn](https://www.linkedin.com/in/tyler-c-anderson)
