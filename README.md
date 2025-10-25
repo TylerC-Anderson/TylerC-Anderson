@@ -16,7 +16,7 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 🚀 **Next Steps:** Listed because they are many 😅
  - Start my cybersecurity blog - security-related thoughts, experiences, and detailed walkthroughs from my journey
  - Learn `vim`
- - Learn Rust 🦀
+ - Learn Rust 🦀 or Zigg ⚡
  - Practice Functional Programming
 🤝 **Open To:** Collaborating on cybersecurity tooling, networking experiments, AI security, or any project with a security twist  
 
