@@ -63,7 +63,7 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 
 ---
 
-!()[<iframe src="https://badgr.com/public/assertions/6dzcbJ1AQi6W3auecLjeaQ?identity__email=tc.anderson.tech%40gmail.com&amp;embedVersion=1&amp;embedWidth=370&amp;embedHeight=167&amp;identity__email=tc.anderson.tech%40gmail.com" style="width: 370px; height: 167px; border: 0px;" title="Badge: DEADFACE CTF 2025 Competitor"></iframe>]
+!()[<iframe src&equals;&quot;https&colon;&sol;&sol;badgr&period;com&sol;public&sol;assertions&sol;6dzcbJ1AQi6W3auecLjeaQ&quest;identity&lowbar;&lowbar;email&equals;tc&period;anderson&period;tech&percnt;40gmail&period;com&amp;amp&semi;embedVersion&equals;1&amp;amp&semi;embedWidth&equals;370&amp;amp&semi;embedHeight&equals;167&amp;amp&semi;identity&lowbar;&lowbar;email&equals;tc&period;anderson&period;tech&percnt;40gmail&period;com&quot; style&equals;&quot;width&colon; 370px&semi; height&colon; 167px&semi; border&colon; 0px&semi;&quot; title&equals;&quot;Badge&colon; DEADFACE CTF 2025 Competitor&quot;&gt;&lt;&sol;iframe&gt;]
 
 ---
 
