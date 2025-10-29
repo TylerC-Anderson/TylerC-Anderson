@@ -63,7 +63,8 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 
 ---
 
-![](<iframe src="https://badgr.com/public/assertions/6dzcbJ1AQi6W3auecLjeaQ?identity__email=tc.anderson.tech%40gmail.com&amp;embedVersion=1&amp;embedWidth=370&amp;embedHeight=167&amp;identity__email=tc.anderson.tech%40gmail.com" style="width: 370px; height: 167px; border: 0px;" title="Badge: DEADFACE CTF 2025 Competitor"></iframe>)
+![Static Badge](https://img.shields.io/badge/%3Ciframe%20src%3D%22https%3A%2F%2Fbadgr.com%2Fpublic%2Fassertions%2F6dzcbJ1AQi6W3auecLjeaQ%3Fidentity__email%3Dtc.anderson.tech%2540gmail.com%26amp%3BembedVersion%3D1%26amp%3BembedWidth%3D370%26amp%3BembedHeight%3D167%26amp%3Bidentity__email%3Dtc.anderson.tech%2540gmail.com%22%20style%3D%22width%3A%20370px%3B%20height%3A%20167px%3B%20border%3A%200px%3B%22%20title%3D%22Badge%3A%20DEADFACE%20CTF%202025%20Competitor%22%3E%3C%2Fiframe%3E)
+
 
 ---
 
