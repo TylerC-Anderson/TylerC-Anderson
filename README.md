@@ -63,11 +63,6 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 
 ---
 
-![Static Badge](https://img.shields.io/badge/%3Ciframe%20src%3D%22https%3A%2F%2Fbadgr.com%2Fpublic%2Fassertions%2F6dzcbJ1AQi6W3auecLjeaQ%3Fidentity__email%3Dtc.anderson.tech%2540gmail.com%26amp%3BembedVersion%3D1%26amp%3BembedWidth%3D370%26amp%3BembedHeight%3D167%26amp%3Bidentity__email%3Dtc.anderson.tech%2540gmail.com%22%20style%3D%22width%3A%20370px%3B%20height%3A%20167px%3B%20border%3A%200px%3B%22%20title%3D%22Badge%3A%20DEADFACE%20CTF%202025%20Competitor%22%3E%3C%2Fiframe%3E)
-
-
----
-
 ### 💼 Professional Background
 
 Currently **Application Security Support Engineer @ Mend.io** — validating vulnerabilities, reproducing exploit conditions, and improving SaaS platform security.
