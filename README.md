@@ -63,7 +63,7 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 
 ---
 
-!()[https://badgr.com/public/assertions/6dzcbJ1AQi6W3auecLjeaQ?identity__email=tc.anderson.tech%40gmail.com]
+![](https://img.shields.io/badge/https%3A%2F%2Fbadgr.com%2Fpublic%2Fassertions%2F6dzcbJ1AQi6W3auecLjeaQ%3Fidentity__email%3Dtc.anderson.tech%2540gmail.com)
 
 ---
 
