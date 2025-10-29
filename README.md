@@ -61,6 +61,9 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
             - converted from ext4 to BTRFS (so `snapper` would work)
             - remapped encrypted disks after UUID changes
 
+---
+
+<iframe src="https://badgr.com/public/assertions/6dzcbJ1AQi6W3auecLjeaQ?identity__email=tc.anderson.tech%40gmail.com&amp;embedVersion=1&amp;embedWidth=370&amp;embedHeight=167&amp;identity__email=tc.anderson.tech%40gmail.com" style="width: 370px; height: 167px; border: 0px;" title="Badge: DEADFACE CTF 2025 Competitor"></iframe>
 
 ---
 
