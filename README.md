@@ -12,7 +12,7 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 
 👀 **Focus:** Ethical Hacking, Cybersecurity, and Networking  
 🎯 **Goal:** Red Team Engineer (currently pursuing *PJPT* → *PNPT* → *CPTS* → *OSCP*)  
-🌱 **Currently Learning:** *PJPT*, HackTheBox labs towards _CJCA_<br>
+🌱 **Currently Learning:** *PJPT*, HackTheBox labs towards _CPTS_<br>
 🚀 **Next Steps:** Listed because they are many 😅
  - Start my cybersecurity blog - security-related thoughts, experiences, and detailed walkthroughs from my journey
  - Learn `vim`
