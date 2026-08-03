@@ -4,7 +4,7 @@
 
 Here you'll find my lab notebook for ongoing experiments, and hopefully a few completed projects.
 
-If something here helps you, sparks an idea, or even drives you a little crazy then please reach out! I love talking shop about ethical hacking and self-hosting.
+If something here helps you, sparks an idea, or something I did was so bad that it drives you a little crazy then please reach out! I love talking shop about ethical hacking and self-hosting.
 
 ---
 
