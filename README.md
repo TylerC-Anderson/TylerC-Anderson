@@ -72,7 +72,7 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 
 Currently **Cybersecurity Engineer, IAM @ Lumin Digital** — designing and hardening identity & access management: access controls, authentication/authorization flows, and least-privilege policy across the platform.
 
-Past experience includes **Security Integration Analyst** and **IT Support Specialist (Security Focus)** at MRI Software, where I developed automation scripts, documented vulnerabilities, and coordinated secure API integrations.
+Past experience includes **Application Security Support Engineer @ Mend.io** — validating vulnerabilities, reproducing exploit conditions, and improving SaaS platform security — plus **Security Integration Analyst** and **IT Support Specialist (Security Focus)** at MRI Software, where I developed automation scripts, documented vulnerabilities, and coordinated secure API integrations.
 
 ---
 
