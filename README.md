@@ -11,8 +11,8 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 ### 📜 Summary
 
 👀 **Focus:** Ethical Hacking, Cybersecurity, and Networking  
-🎯 **Goal:** Red Team Engineer (*PJPT* earned → *PNPT* → *CPTS* in progress → *OSCP*)  
-🌱 **Currently Learning:** HTB Academy labs towards _CPTS_; next up _pwn.college_ for binary exploitation / reverse engineering<br>
+🎯 **Goal:** Red Team Engineer (*PJPT* earned → *CPTS* in progress → *pwn.college* / *OSCP* next)  
+🌱 **Currently Learning:** HTB Academy labs towards _CPTS_, plus IAM & Infrastructure-as-Code concepts; eyeing _pwn.college_ (binary exploitation / reverse engineering) or _OSCP_ after<br>
 🚀 **Next Steps:** Listed because they are many 😅
  - Start my cybersecurity blog - security-related thoughts, experiences, and detailed walkthroughs from my journey
  - Learn `vim`
@@ -24,7 +24,7 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 
 ### 🛠️ Current Works-in-Progress
 
-- 🧭 **Certification Sprint (Fall 2025– Fall 2026):** Completing a self-directed, year-long path toward the latest generation of ethical hacking certifications. My path: **PJPT (TCM-Sec) earned → PNPT (TCM-Sec) → CPTS (HTB), in progress via HTB Academy**, with **pwn.college** up next for binary exploitation / reverse engineering.
+- 🧭 **Certification Sprint (Fall 2025– Fall 2026):** Completing a self-directed, year-long path toward the latest generation of ethical hacking certifications. My path: **PJPT (TCM-Sec) earned → CPTS (HTB), in progress via HTB Academy**, with **pwn.college** (binary exploitation / reverse engineering) or **OSCP** up next.
     - I prefer the latest generation of certs, because they are focused on hands-on labs, industry-standard penetration testing methodology and reporting, and real-world red team workflows. 
     - As practice, and hopefully to tie up another certification under my belt, I'm also working through the **CJCA** path in HackTheBox, and will grab that cert if I have time.
 
@@ -37,6 +37,10 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 
 - 🧰 **Home Server Project** — Running Ubuntu with Dockerized services for media streaming, web hosting, and backups via Cloudflare reverse proxy  
   *(99% uptime, remote available behind reverse proxy, serving Jellyfin + NAS storage)*
+
+- 🤖 **Discord Bot on AWS (Terraform / IaC)** — Building a Discord bot provisioned with Terraform on AWS, as hands-on practice for Infrastructure-as-Code and cloud IAM.
+
+- 🧠 **Proxmox Local LLM Inference Server** — Standing up a Proxmox host for self-hosted local LLM inference.
 
 ---
 
