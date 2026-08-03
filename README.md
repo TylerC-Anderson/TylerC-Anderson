@@ -11,8 +11,8 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 ### 📜 Summary
 
 👀 **Focus:** Ethical Hacking, Cybersecurity, and Networking  
-🎯 **Goal:** Red Team Engineer (currently pursuing *PJPT* → *PNPT* → *CPTS* → *OSCP*)  
-🌱 **Currently Learning:** *PJPT*, HackTheBox labs towards _CPTS_<br>
+🎯 **Goal:** Red Team Engineer (*PJPT* earned → *PNPT* → *CPTS* in progress → *OSCP*)  
+🌱 **Currently Learning:** HTB Academy labs towards _CPTS_; next up _pwn.college_ for binary exploitation / reverse engineering<br>
 🚀 **Next Steps:** Listed because they are many 😅
  - Start my cybersecurity blog - security-related thoughts, experiences, and detailed walkthroughs from my journey
  - Learn `vim`
@@ -24,7 +24,7 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 
 ### 🛠️ Current Works-in-Progress
 
-- 🧭 **Certification Sprint (Fall 2025– Fall 2026):** Completing a self-directed, year-long path toward the latest generation of ethical hacking certifications. In order I will get: **PJPT (TCM-Sec) → PNPT (TCM-Sec) → CPTS (HTB)**.
+- 🧭 **Certification Sprint (Fall 2025– Fall 2026):** Completing a self-directed, year-long path toward the latest generation of ethical hacking certifications. My path: **PJPT (TCM-Sec) earned → PNPT (TCM-Sec) → CPTS (HTB), in progress via HTB Academy**, with **pwn.college** up next for binary exploitation / reverse engineering.
     - I prefer the latest generation of certs, because they are focused on hands-on labs, industry-standard penetration testing methodology and reporting, and real-world red team workflows. 
     - As practice, and hopefully to tie up another certification under my belt, I'm also working through the **CJCA** path in HackTheBox, and will grab that cert if I have time.
 
@@ -43,8 +43,9 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 ### 🧩 Completed Projects & Hands-On Security Practice
 
 - **Wargames:** Completed *OverTheWire Bandit* & *Leviathan*, progressing through *Natas* (privilege escalation, scripting, web exploitation)
-- **Custom Tools:**
+- **Custom Tools:** When an existing tool doesn't fit the job, I build my own offensive / attack-chain tooling.
     - PyScan - a DIY port scanner in Python that is like nmap's extremely less capable cousin, but it works!
+    - [website_enum_automation](https://github.com/TylerC-Anderson/website_enum_automation) - a web-enumeration automation tool
     - various scripts for my day job - cannot include here due to legal stuffs
 - **Homelab**
     - Configured secure DNS sinkhole (PiHole)
@@ -65,7 +66,7 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 
 ### 💼 Professional Background
 
-Currently **Application Security Support Engineer @ Mend.io** — validating vulnerabilities, reproducing exploit conditions, and improving SaaS platform security.
+Currently **Cybersecurity Engineer, IAM @ Lumin Digital** — validating vulnerabilities, reproducing exploit conditions, and improving SaaS platform security.
 
 Past experience includes **Security Integration Analyst** and **IT Support Specialist (Security Focus)** at MRI Software, where I developed automation scripts, documented vulnerabilities, and coordinated secure API integrations.
 
@@ -81,4 +82,6 @@ Additional coursework: Programming Language theory (all four paradigms), C++, Ja
 
 ### 🔗 Connect
 
-🌐 [LinkedIn](https://www.linkedin.com/in/tyler-c-anderson)
+🌐 [LinkedIn](https://www.linkedin.com/in/tyler-c-anderson/)  
+🟩 [Hack The Box Profile](https://profile.hackthebox.com/profile/019f9481-5677-72ee-8e5b-c9a32231f3b8)  
+📜 [PJPT Credential (verify)](https://certified.tcm-sec.com/d0f61e2f-4110-4716-901c-d3702187cb64#acc.eXIxyq7r)
