@@ -10,7 +10,7 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 
 ### 📜 Summary
 
-👀 **Focus:** Ethical Hacking, Cybersecurity, and Networking  
+👀 **Focus:** Ethical Hacking, Cybersecurity, and IAM  
 🎯 **Goal:** Red Team Engineer (*PJPT* earned → *CPTS* in progress → *pwn.college* / *OSCP* next)  
 🌱 **Currently Learning:** HTB Academy labs towards _CPTS_, plus IAM & Infrastructure-as-Code concepts; eyeing _pwn.college_ (binary exploitation / reverse engineering) or _OSCP_ after<br>
 🚀 **Next Steps:** Listed because they are many 😅
@@ -24,7 +24,7 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 
 ### 🛠️ Current Works-in-Progress
 
-- 🧭 **Certification Sprint (Fall 2025– Fall 2026):** Completing a self-directed, year-long path toward the latest generation of ethical hacking certifications. My path: **PJPT (TCM-Sec) earned → CPTS (HTB), in progress via HTB Academy**, with **pwn.college** (binary exploitation / reverse engineering) or **OSCP** up next.
+- 🧭 **Certification Sprint (Fall 2025 – Winter 2026):** Completing a self-directed, year-long path toward the latest generation of ethical hacking certifications. My path: **PJPT (TCM-Sec) earned → CPTS (HTB), in progress via HTB Academy**, with **pwn.college** (binary exploitation / reverse engineering) or **OSCP** up next.
     - I prefer the latest generation of certs, because they are focused on hands-on labs, industry-standard penetration testing methodology and reporting, and real-world red team workflows. 
     - As practice, and hopefully to tie up another certification under my belt, I'm also working through the **CJCA** path in HackTheBox, and will grab that cert if I have time.
 
@@ -70,7 +70,7 @@ If something here helps you, sparks an idea, or even drives you a little crazy t
 
 ### 💼 Professional Background
 
-Currently **Cybersecurity Engineer, IAM @ Lumin Digital** — validating vulnerabilities, reproducing exploit conditions, and improving SaaS platform security.
+Currently **Cybersecurity Engineer, IAM @ Lumin Digital** — designing and hardening identity & access management: access controls, authentication/authorization flows, and least-privilege policy across the platform.
 
 Past experience includes **Security Integration Analyst** and **IT Support Specialist (Security Focus)** at MRI Software, where I developed automation scripts, documented vulnerabilities, and coordinated secure API integrations.
 
