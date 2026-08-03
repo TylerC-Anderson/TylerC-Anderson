@@ -88,4 +88,4 @@ Additional coursework: Programming Language theory (all four paradigms), C++, Ja
 
 🌐 [LinkedIn](https://www.linkedin.com/in/tyler-c-anderson/)  
 🟩 [Hack The Box Profile](https://profile.hackthebox.com/profile/019f9481-5677-72ee-8e5b-c9a32231f3b8)  
-📜 [PJPT Credential (verify)](https://certified.tcm-sec.com/d0f61e2f-4110-4716-901c-d3702187cb64#acc.eXIxyq7r)
+📜 [PJPT Credential](https://certified.tcm-sec.com/d0f61e2f-4110-4716-901c-d3702187cb64#acc.eXIxyq7r)
