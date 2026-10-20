@@ -24,7 +24,7 @@ If something here helps you, sparks an idea, or something I did was so bad that 
 
 ### 🛠️ Current Works-in-Progress
 
-- 🧭 **Certification Sprint (Fall 2025 – Winter 2026):** Completing a self-directed, year-long path toward the latest generation of ethical hacking certifications. My path: **PJPT (TCM-Sec) earned → CPTS (HTB), in progress via HTB Academy**, with **pwn.college** (binary exploitation / reverse engineering) or **OSCP** up next.
+- 🧭 **Certification Sprint (Fall 2025 – Winter 2026):** Completing a self-directed, year-long path toward the latest generation of ethical hacking certifications. My path: **PJPT (TCM-Sec, Completed) → CPTS (HTB), in progress via HTB Academy**, with **pwn.college** (binary exploitation / reverse engineering) or **OSCP** up next.
     - I prefer the latest generation of certs, because they are focused on hands-on labs, industry-standard penetration testing methodology and reporting, and real-world red team workflows. 
     - As practice, and hopefully to tie up another certification under my belt, I'm also working through the **CJCA** path in HackTheBox, and will grab that cert if I have time.
 
