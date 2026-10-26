@@ -18,7 +18,7 @@ If something here helps you, sparks an idea, or something I did was so bad that 
  - Learn `vim`
  - Learn Rust 🦀 or Zigg ⚡
  - Practice Functional Programming
-🤝 **Open To:** Collaborating on cybersecurity tooling, networking experiments, AI security, or any project with a security twist  
+<br>🤝 **Open To:** Collaborating on cybersecurity tooling, networking experiments, AI security, or any project with a security twist  
 
 ---
 
